@@ -1,2 +1,0 @@
-(** @canonical Incr_dom_counter_example_lib.App *)
-module App = Incr_dom_counter_example_lib__App
